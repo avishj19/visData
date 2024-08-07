@@ -1,0 +1,21 @@
+body {
+    background-color: lightblue;
+  }
+
+  h1 {
+    color: blue;
+  }
+
+  h4 {
+    color: red;
+  }
+
+  #random_btn {
+    background-color: yellow;
+    color: black;
+  }
+  
+  #random_btn:hover {
+    transition: 0.25s;
+    background-color: #bbbbbb;
+}
